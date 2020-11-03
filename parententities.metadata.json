@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"tel":{"$numberInt":"1"}},"name":"tel_1","background":true}],"uuid":"81c9007f59ea46218c8e457c51712dae","collectionName":"parententities"}

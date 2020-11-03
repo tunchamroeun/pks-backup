@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"type":{"$numberInt":"1"}},"name":"type_1","background":true}],"uuid":"6abccc8a461a44578df7a8c2e3decd4b","collectionName":"typeofstudyyearentities"}
